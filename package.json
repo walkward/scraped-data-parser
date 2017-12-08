@@ -1,0 +1,23 @@
+{
+  "name": "@walker/scraped-data-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "joinKeyPair.js",
+  "scripts": {
+    "start": "node joinKeyPair.js",
+    "scrape": "node scrapeXML.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkward/scraped-data-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkward/scraped-data-parser/issues"
+  },
+  "homepage": "https://github.com/walkward/scraped-data-parser#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
